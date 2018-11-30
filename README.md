@@ -11,7 +11,7 @@ Ladislav Bittman, “The KGB and Soviet Disinformation” [https://archive.org/d
 Ross Tapsell, “Disinformation and democracy in Indonesia” New Mandala, January 12, 2018 [http://www.newmandala.org/disinformation-democracy-indonesia/](http://www.newmandala.org/disinformation-democracy-indonesia/)
 
 “Muslim Cyber Army: a 'fake news' operation designed to derail Indonesia's leader”, The Guardian, March 13, 2018
-[https://www.theguardian.com/world/2018/mar/13/muslim-cyber-army-a-fake-news-operation-designed-to-bring-down-indonesias-leader] (https://www.theguardian.com/world/2018/mar/13/muslim-cyber-army-a-fake-news-operation-designed-to-bring-down-indonesias-leader)
+[https://www.theguardian.com/world/2018/mar/13/muslim-cyber-army-a-fake-news-operation-designed-to-bring-down-indonesias-leader](https://www.theguardian.com/world/2018/mar/13/muslim-cyber-army-a-fake-news-operation-designed-to-bring-down-indonesias-leader)
 
 Steve Stecklow, “Why Facebook is losing the war on hate speech in Myanmar”, Reuters, August 15, 2018.
 [https://www.reuters.com/investigates/special-report/myanmar-facebook-hate/](https://www.reuters.com/investigates/special-report/myanmar-facebook-hate/)
