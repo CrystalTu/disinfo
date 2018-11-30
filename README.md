@@ -73,7 +73,7 @@ Kelly Born and Nell Edgington for the William and Flora Hewlett Foundation, “A
 [https://hewlett.org/wp-content/uploads/2017/11/Hewlett-Disinformation-Propaganda-Report.pdf)](https://hewlett.org/wp-content/uploads/2017/11/Hewlett-Disinformation-Propaganda-Report.pdf)
     
 Alice Marwick and Rebecca Lewis, “Media Manipulation and Disinformation Online”, Data & Society Research Institute
-(https://datasociety.net/pubs/oh/DataAndSociety_MediaManipulationAndDisinformationOnline.pdf)
+[https://datasociety.net/pubs/oh/DataAndSociety_MediaManipulationAndDisinformationOnline.pdf](https://datasociety.net/pubs/oh/DataAndSociety_MediaManipulationAndDisinformationOnline.pdf)
 
 Lee Rainie and Janna Anderson, “The Fate of Online Trust in the Next Decade”, [http://www.pewinternet.org/2017/08/10/the-fate-of-online-trust-in-the-next-decade/](http://www.pewinternet.org/2017/08/10/the-fate-of-online-trust-in-the-next-decade/)
 
