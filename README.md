@@ -5,11 +5,10 @@ The list is originally offered in summer school of disinformation hosted by Digi
 
 ## Reading
 ### Books
-Ladislav Bittman, “The KGB and Soviet Disinformation” (https://archive.org/details/sovietdisinformation2)
+Ladislav Bittman, “The KGB and Soviet Disinformation” [https://archive.org/details/sovietdisinformation2](https://archive.org/details/sovietdisinformation2)
 
 ### Articles
-Ross Tapsell, “Disinformation and democracy in Indonesia” New Mandala, January 12, 2018 [http://www.newmandala.org/disinformation-democracy-indonesia/]
-(http://www.newmandala.org/disinformation-democracy-indonesia/)
+Ross Tapsell, “Disinformation and democracy in Indonesia” New Mandala, January 12, 2018 [http://www.newmandala.org/disinformation-democracy-indonesia/](http://www.newmandala.org/disinformation-democracy-indonesia/)
 
 “Muslim Cyber Army: a 'fake news' operation designed to derail Indonesia's leader”, The Guardian, March 13, 2018
 [https://www.theguardian.com/world/2018/mar/13/muslim-cyber-army-a-fake-news-operation-designed-to-bring-down-indonesias-leader] (https://www.theguardian.com/world/2018/mar/13/muslim-cyber-army-a-fake-news-operation-designed-to-bring-down-indonesias-leader)
